@@ -1,0 +1,12 @@
+/Users/dave/Documents/AWSEb/Api8/publish/Api8
+/Users/dave/Documents/AWSEb/Api8/publish/appsettings.Development.json
+/Users/dave/Documents/AWSEb/Api8/publish/appsettings.json
+/Users/dave/Documents/AWSEb/Api8/publish/Api8.dll
+/Users/dave/Documents/AWSEb/Api8/publish/Api8.deps.json
+/Users/dave/Documents/AWSEb/Api8/publish/Api8.runtimeconfig.json
+/Users/dave/Documents/AWSEb/Api8/publish/Api8.pdb
+/Users/dave/Documents/AWSEb/Api8/publish/Microsoft.AspNetCore.OpenApi.dll
+/Users/dave/Documents/AWSEb/Api8/publish/Microsoft.OpenApi.dll
+/Users/dave/Documents/AWSEb/Api8/publish/Swashbuckle.AspNetCore.Swagger.dll
+/Users/dave/Documents/AWSEb/Api8/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/dave/Documents/AWSEb/Api8/publish/Swashbuckle.AspNetCore.SwaggerUI.dll
