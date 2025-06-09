@@ -11,7 +11,7 @@ phases:
       - echo "Publicando app..."
       - dotnet publish -c Release -o output
       - echo 'web: dotnet Api8.dll' > output/Procfile
-
+      
 artifacts:
   files:
     - '**/*'
