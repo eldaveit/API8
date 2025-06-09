@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Api8")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+40d548c54515b70e2886c1263544aa1bb3f5132c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Api8")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Api8")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

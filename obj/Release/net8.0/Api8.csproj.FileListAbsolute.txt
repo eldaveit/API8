@@ -1,5 +1,16 @@
+/Users/dave/Documents/AWSEb/Api8/bin/Release/net8.0/eb-temp/web.config
+/Users/dave/Documents/AWSEb/Api8/bin/Release/net8.0/publish/web.config
+/Users/dave/Documents/AWSEb/Api8/bin/Release/net8.0/web.config
 /Users/dave/Documents/AWSEb/Api8/bin/Release/net8.0/appsettings.Development.json
 /Users/dave/Documents/AWSEb/Api8/bin/Release/net8.0/appsettings.json
+/Users/dave/Documents/AWSEb/Api8/bin/Release/net8.0/eb-temp/Api8.deps.json
+/Users/dave/Documents/AWSEb/Api8/bin/Release/net8.0/eb-temp/Api8.runtimeconfig.json
+/Users/dave/Documents/AWSEb/Api8/bin/Release/net8.0/eb-temp/appsettings.Development.json
+/Users/dave/Documents/AWSEb/Api8/bin/Release/net8.0/eb-temp/appsettings.json
+/Users/dave/Documents/AWSEb/Api8/bin/Release/net8.0/publish/Api8.deps.json
+/Users/dave/Documents/AWSEb/Api8/bin/Release/net8.0/publish/Api8.runtimeconfig.json
+/Users/dave/Documents/AWSEb/Api8/bin/Release/net8.0/publish/appsettings.Development.json
+/Users/dave/Documents/AWSEb/Api8/bin/Release/net8.0/publish/appsettings.json
 /Users/dave/Documents/AWSEb/Api8/bin/Release/net8.0/Api8
 /Users/dave/Documents/AWSEb/Api8/bin/Release/net8.0/Api8.deps.json
 /Users/dave/Documents/AWSEb/Api8/bin/Release/net8.0/Api8.runtimeconfig.json
@@ -17,6 +28,7 @@
 /Users/dave/Documents/AWSEb/Api8/obj/Release/net8.0/Api8.csproj.CoreCompileInputs.cache
 /Users/dave/Documents/AWSEb/Api8/obj/Release/net8.0/Api8.MvcApplicationPartsAssemblyInfo.cs
 /Users/dave/Documents/AWSEb/Api8/obj/Release/net8.0/Api8.MvcApplicationPartsAssemblyInfo.cache
+/Users/dave/Documents/AWSEb/Api8/obj/Release/net8.0/Api8.sourcelink.json
 /Users/dave/Documents/AWSEb/Api8/obj/Release/net8.0/staticwebassets.build.json
 /Users/dave/Documents/AWSEb/Api8/obj/Release/net8.0/staticwebassets.development.json
 /Users/dave/Documents/AWSEb/Api8/obj/Release/net8.0/staticwebassets/msbuild.Api8.Microsoft.AspNetCore.StaticWebAssets.props
