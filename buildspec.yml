@@ -9,11 +9,10 @@ phases:
       - echo "Restaurando dependencias..."
       - dotnet restore
       - echo "Publicando app..."
-      - dotnet publish -c Release -o output
-      - printf "web: dotnet Api8.dll\n" > output/Procfile
+      - dotnet publish -c Release -o output/publish
 
 artifacts:
   files:
     - '**/*'
-  base-directory: output
+  base-directory: output/publish
 
